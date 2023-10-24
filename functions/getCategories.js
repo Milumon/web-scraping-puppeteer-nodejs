@@ -9,7 +9,7 @@ exports.handler = async (event, context) => {
   const browser = await puppeteer.launch({
     args: chromium.args,
     executablePath:
-      process.env.CHROME_EXECUTABLE_PATH || (await chromium.executablePath()),
+      process.env.CHROME_EXECUTABLE_PATH || await chromium.executablePath(),
     headless: true,
   });
 
@@ -33,6 +33,7 @@ exports.handler = async (event, context) => {
         };
       });
     });
+    await browser.close();
 
     const cleanedCategoriesAll = categoriesAll.map((category) => {
       return {
@@ -51,7 +52,5 @@ exports.handler = async (event, context) => {
     // visit categories and get questions
   } catch (e) {
     console.log(e);
-  } finally {
-    await browser.close();
-  }
+  }  
 };
