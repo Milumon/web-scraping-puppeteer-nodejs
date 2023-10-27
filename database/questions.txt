@@ -1,0 +1,662 @@
+[
+    {
+        "question": "¿Cómo activar tarjeta para comprar por internet o en extranjero?",
+        "questionSubCategory": "Primeros pasos",
+        "category": "Banca Móvil",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/operaciones-digitales/como-activar-mis-tarjetas-para-compras-por-internet-o-en-el-extranjero"
+    },
+    {
+        "question": "¿Cómo activo las notificaciones en la App de Banca Móvil BCP?",
+        "questionSubCategory": "Primeros pasos",
+        "category": "Banca Móvil",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/operaciones-digitales/como-activo-las-notificaciones-en-la-app-de-banca-movil-bcp"
+    },
+    {
+        "question": "¿Cómo descargo la App de Banca Móvil BCP?",
+        "questionSubCategory": "Primeros pasos",
+        "category": "Banca Móvil",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/operaciones-digitales/como-descargo-la-app-de-banca-movil-bcp"
+    },
+    {
+        "question": "¿Cómo edito mis Productos preferentes en la App de Banca Móvil BCP?",
+        "questionSubCategory": "Primeros pasos",
+        "category": "Banca Móvil",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/operaciones-digitales/como-edito-mis-productos-preferentes-en-la-app-de-banca-movil-bcp"
+    },
+    {
+        "question": "¿Cómo me afilio a Banca Móvil BCP?",
+        "questionSubCategory": "Primeros pasos",
+        "category": "Banca Móvil",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/operaciones-digitales/como-me-afilio-banca-movil-bcp"
+    },
+    {
+        "question": "¿Cómo obtener un Depósito a Plazo Fijo desde el App Banca Móvil BCP?",
+        "questionSubCategory": "Primeros pasos",
+        "category": "Banca Móvil",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/banca-movil/como-obtener-deposito-plazo-fijo-bcp"
+    },
+    {
+        "question": "¿Cómo adquiero productos por la App de Banca Móvil BCP?",
+        "questionSubCategory": "Primeros pasos",
+        "category": "Banca Móvil",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/operaciones-digitales/como-adquiero-productos-por-la-app-de-banca-movil-bcp"
+    },
+    {
+        "question": "¿Qué hacer si mi App Banca Móvil BCP no funciona correctamente?",
+        "questionSubCategory": "Primeros pasos",
+        "category": "Banca Móvil",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/banca-movil/app-banca-movil-bcp-no-funciona"
+    },
+    {
+        "question": "¿Cómo desafiliar mi dispositivo de la App Banca Móvil BCP?",
+        "questionSubCategory": "Primeros pasos",
+        "category": "Banca Móvil",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/operaciones-digitales/como-desafiliar-dispositivo-app-banca-movil-bcp"
+    },
+    {
+        "question": "¿Cómo eliminar mis Tarjetas de la App Banca Móvil BCP?",
+        "questionSubCategory": "Primeros pasos",
+        "category": "Banca Móvil",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/operaciones-digitales/como-eliminar-tarjetas-app-banca-movil-bcp"
+    },
+    {
+        "question": "¿Cómo encuentro Soluciones de Pago en la App de Banca Móvil BCP?",
+        "questionSubCategory": "Primeros pasos",
+        "category": "Banca Móvil",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/operaciones-digitales/como-encuentro-soluciones-de-pago-en-la-app-de-banca-movil-bcp"
+    },
+    {
+        "question": "¿Cómo cambiar la tarjeta que tengo asociada a Pagos Móviles BCP?",
+        "questionSubCategory": "Primeros pasos",
+        "category": "Banca Móvil",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/banca-movil/como-cambiar-tarjeta-pagos-moviles"
+    },
+    {
+        "question": "¿Cómo pagar en cualquier comercio usando mi celular con el App Banca Móvil BCP?",
+        "questionSubCategory": "Primeros pasos",
+        "category": "Banca Móvil",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/banca-movil/como-pagar-usando-celular-app-banca-movil-bcp"
+    },
+    {
+        "question": "¿Cómo me afilio a Apple Pay o Pagos Móviles desde mi App Banca Móvil?",
+        "questionSubCategory": "Primeros pasos",
+        "category": "Banca Móvil",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/operaciones-digitales/como-afilio-apple-pay-pagos-moviles-app-banca-movil"
+    },
+    {
+        "question": "¿Cuál es el monto máximo que puedo transferir desde mi Cuenta BCP usando el App Banca Móvil?",
+        "questionSubCategory": "Primeros pasos",
+        "category": "Banca Móvil",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/banca-movil/cual-monto-maximo-transferencias-bcp"
+    },
+    {
+        "question": "¿Cómo pago los servicios desde el App Banca Móvil BCP?",
+        "questionSubCategory": "Primeros pasos",
+        "category": "Banca Móvil",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/operaciones-digitales/como-pago-los-servicios-desde-el-app-banca-movil-bcp"
+    },
+    {
+        "question": "¿Cómo realizo transferencias entre Cuentas propias o terceros?",
+        "questionSubCategory": "Primeros pasos",
+        "category": "Banca Móvil",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/operaciones-digitales/como-realizo-transferencias-entre-cuentas-propias-o-terceros"
+    },
+    {
+        "question": "¿Cómo recibo y envío dinero con mi número de celular a través de mi app Banca Móvil?​",
+        "questionSubCategory": "Primeros pasos",
+        "category": "Banca Móvil",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/operaciones-digitales/como-recibo-envio-dinero-numero-celular-app-banca-movil"
+    },
+    {
+        "question": "¿Cómo activar el Token Digital?",
+        "questionSubCategory": "Clave 6 y Token Digital",
+        "category": "Operaciones digitales",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/operaciones-digitales/como-activar-el-token-digital"
+    },
+    {
+        "question": "¿Cómo creo mi clave de 6 dígitos?",
+        "questionSubCategory": "Clave 6 y Token Digital",
+        "category": "Operaciones digitales",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/operaciones-digitales/como-creo-mi-clave-de-seis-digitos"
+    },
+    {
+        "question": "¿En qué se diferencia mi clave de Internet con el Token Digital?",
+        "questionSubCategory": "Clave 6 y Token Digital",
+        "category": "Operaciones digitales",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/operaciones-digitales/en-que-se-diferencia-mi-clave-de-internet-con-el-token-digital"
+    },
+    {
+        "question": "¿Cómo bloquear mi Tarjeta de Crédito o Débito BCP?",
+        "questionSubCategory": "Clave 6 y Token Digital",
+        "category": "Operaciones digitales",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/operaciones-digitales/como-bloquear-mi-tarjeta-credito-debito-bcp"
+    },
+    {
+        "question": "¿Perdiste o te robaron tu tarjeta?",
+        "questionSubCategory": "Clave 6 y Token Digital",
+        "category": "Operaciones digitales",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/operaciones-digitales/perdiste-o-te-robaron-tu-tarjeta"
+    },
+    {
+        "question": "¿Qué hacer si me robaron mi celular y mi Tarjeta de Débito BCP?",
+        "questionSubCategory": "Clave 6 y Token Digital",
+        "category": "Operaciones digitales",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/operaciones-digitales/que-hacer-si-me-robaron-celular-y-tarjeta-de-debito"
+    },
+    {
+        "question": "¿Cómo cambiar dólares online desde App Banca Móvil o Banca por Internet BCP?",
+        "questionSubCategory": "Clave 6 y Token Digital",
+        "category": "Operaciones digitales",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/operaciones-digitales/como-cambiar-dolares-online-bcp"
+    },
+    {
+        "question": "¿Cómo saber si un correo del BCP es falso?",
+        "questionSubCategory": "Clave 6 y Token Digital",
+        "category": "Operaciones digitales",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/operaciones-digitales/como-saber-correo-bcp-falso"
+    },
+    {
+        "question": "¿Cómo cambiar soles y dólares en Agentes, Agencias o Cajeros?",
+        "questionSubCategory": "Clave 6 y Token Digital",
+        "category": "Operaciones digitales",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/operaciones-digitales/como-cambiar-soles-dolares-agentes-agencias-cajeros-bcp"
+    },
+    {
+        "question": "¿Cómo reconocer correos con enlaces oficiales del BCP?",
+        "questionSubCategory": "Clave 6 y Token Digital",
+        "category": "Operaciones digitales",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/operaciones-digitales/como-reconocer-correos-con-enlaces-oficiales-bcp"
+    },
+    {
+        "question": "¿Cómo y dónde puedo realizar un reclamo al BCP?",
+        "questionSubCategory": "Clave 6 y Token Digital",
+        "category": "Operaciones digitales",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/operaciones-digitales/como-y-donde-realizar-reclamo-bcp"
+    },
+    {
+        "question": "¿Qué debo hacer si no puedo pagar mi deuda con el BCP?",
+        "questionSubCategory": "Clave 6 y Token Digital",
+        "category": "Operaciones digitales",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/operaciones-digitales/que-hacer-si-no-puedo-pagar-deuda-bcp"
+    },
+    {
+        "question": "¿Cómo ampliar la línea de crédito de mi Tarjeta BCP?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/como-ampliar-linea-tarjeta-credito-bcp"
+    },
+    {
+        "question": "¿Cómo obtener una Tarjeta de Crédito BCP?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/como-obtener-tarjeta-credito-bcp"
+    },
+    {
+        "question": "¿Cómo realizar un upgrade a mi Tarjeta de Crédito BCP?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/upgrade-tarjeta-credito-bcp"
+    },
+    {
+        "question": "¿Qué Tarjeta de Crédito BCP no tiene cobro de membresía?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/tarjeta-credito-bcp-sin-membresia"
+    },
+    {
+        "question": "¿Cuáles son los requisitos para sacar una tarjeta de crédito?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/requisitos-para-sacar-tarjeta-de-credito"
+    },
+    {
+        "question": "¿Cuáles son los tipos de Tarjeta de Crédito?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/cuales-son-tipos-tarjeta-credito"
+    },
+    {
+        "question": "¿Cómo activo mi Tarjeta de Crédito por la App Banca Móvil BCP?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/como-activar-tarjeta-de-credito-app-banca-movil"
+    },
+    {
+        "question": "¿Cómo evitar los intereses y penalidades por deuda sin cuota?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/como-evitar-intereses-y-penalidades-al-usar-mi-tarjeta-de-credito-bcp"
+    },
+    {
+        "question": "¿Cómo puedo ver los datos de mi tarjeta de crédito en Banca Móvil?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/como-ver-datos-tarjeta-de-credito-banca-movil"
+    },
+    {
+        "question": "¿Cómo saber si tengo una Tarjeta de Crédito pre aprobada?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/como-saber-tengo-tarjeta-credito-pre-aprobada"
+    },
+    {
+        "question": "¿Cómo ver mis saldos y/o movimientos?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/como-ver-mis-saldos-y-movimientos-de-mi-tarjeta-de-credito-bcp"
+    },
+    {
+        "question": "¿Qué puedo hacer con mi Tarjeta de Crédito en la App Banca Móvil BCP?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/que-hacer-tarjeta-de-credito-app-banca-movil"
+    },
+    {
+        "question": "¿Cómo puedo saber cuál es la fecha de facturación y de pago de mi Tarjeta de Crédito BCP?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/fecha-facturacion-pago-tarjeta-credito-bcp"
+    },
+    {
+        "question": "¿Cuáles son las formas de pagar mi Tarjeta de Crédito BCP?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/cuales-son-formas-de-pagar-tarjeta-de-credito"
+    },
+    {
+        "question": "¿Cuándo debo pagar mi tarjeta de Crédito?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/cuando-debo-pagar-tarjeta-de-credito"
+    },
+    {
+        "question": "¿Cómo hago pagos anticipados por la app Banca Móvil BCP?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/como-hago-pagos-anticipados-por-app-banca-movil"
+    },
+    {
+        "question": "¿Cómo pagar mi Tarjeta de Crédito?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/como-pagar-tarjeta-de-credito"
+    },
+    {
+        "question": "¿Cómo pagar total o parcialmente mi consumo hecho en cuotas?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/como-pagar-total-o-parcial-consumo-en-cuotas"
+    },
+    {
+        "question": "¿Cómo pago mis créditos y tarjetas desde mi App Banca Móvil BCP?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/como-pago-creditos-tarjetas-desde-app-banca-movil-bcp"
+    },
+    {
+        "question": "¿Cómo puedo ampliar o postergar el pago de mi Tarjeta de Crédito?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/como-ampliar-o-postergar-pago-tarjeta-credito"
+    },
+    {
+        "question": "¿Cómo puedo pagar en cuotas mis consumos usando el App Banca Movil BCP?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/como-puedo-pagar-en-cuotas-mis-consumos-usando-app-banca-movil-bcp"
+    },
+    {
+        "question": "¿Cómo puedo reprogramar la deuda de mi Tarjeta de Crédito?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/como-reprogramar-deuda-de-mi-tarjeta-credito"
+    },
+    {
+        "question": "¿Cómo saber la deuda total de mi Tarjeta de Crédito?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/como-saber-deuda-total-tarjeta-de-credito"
+    },
+    {
+        "question": "¿Por qué me cobraron doble en mi Tarjeta de Crédito?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/porque-cobraron-doble-tarjeta-de-credito"
+    },
+    {
+        "question": "¿Por qué me cobraron intereses por una disposición de efectivo que pague a tiempo?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/porque-cobraron-intereses-por-disposicion-efectivo"
+    },
+    {
+        "question": "¿Qué es el seguro de desgravamen?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/que-es-seguro-de-desgravamen"
+    },
+    {
+        "question": " ¿Qué hago si tengo un consumo no reconocido en mi Tarjeta de Crédito?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/tengo-consumo-no-reconocido-tarjeta-de-credito"
+    },
+    {
+        "question": "¿Qué pasa si no pago mi Tarjeta de Crédito a tiempo?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/que-pasa-si-no-pago-tarjeta-de-credito-a-tiempo"
+    },
+    {
+        "question": "¿Cómo ver el estado de cuenta de mi Tarjeta de Crédito BCP?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/como-ver-estado-de-cuenta-de-mi-tarjeta-de-credito-bcp"
+    },
+    {
+        "question": "¿Qué hago si no me llega mi Estado de Cuenta a mi correo? ",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/no-llega-estado-de-cuenta-a-correo-tarjeta-de-credito"
+    },
+    {
+        "question": "¿Cuál es el máximo número de cuotas al que puedo comprar sin intereses?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/maximo-numero-cuotas-sin-intereses-bcp"
+    },
+    {
+        "question": "¿Cuántas veces puedo usar el beneficio de Cuotas sin Intereses?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/cuantas-veces-usar-cuotas-sin-intereses-bcp"
+    },
+    {
+        "question": "¿Cuánto pagar cada mes al realizar una compra en Cuotas sin Intereses?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/cuanto-pagar-cada-mes-cuotas-sin-intereses-bcp"
+    },
+    {
+        "question": "¿Cómo comprar en meses sin intereses en el BCP?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/como-comprar-meses-sin-intereses-bcp"
+    },
+    {
+        "question": "¿Cómo funcionan las Cuotas Sin Intereses en las Tarjetas de Crédito BCP?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/como-funciona-cuotas-sin-intereses-bcp"
+    },
+    {
+        "question": "¿Dónde comprar en Cuotas sin Intereses?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/donde-comprar-cuotas-sin-intereses-bcp"
+    },
+    {
+        "question": "¿Puedo pasar a cuotas sin intereses mis compras hechas con mi Tarjeta Visa BCP?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/pasar-cuotas-sin-intereses-compras-tarjeta-bcp"
+    },
+    {
+        "question": "¿Qué Tarjetas de Crédito BCP tienen meses o cuotas sin intereses?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/que-tarjeta-credito-bcp-meses-cuotas-sin-intereses"
+    },
+    {
+        "question": "¿Qué son las Cuotas Sin Intereses?",
+        "questionSubCategory": "Tarjetas de Crédito",
+        "category": "Tarjetas de Crédito",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/tarjetas/que-son-cuotas-sin-intereses-bcp"
+    },
+    {
+        "question": "¿Cómo obtengo un Préstamo por Yape?​",
+        "questionSubCategory": "Préstamos",
+        "category": "Préstamos",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/prestamos/como-obtengo-un-prestamo-por-yape"
+    },
+    {
+        "question": "¿Cómo sé si tengo un Préstamo Personal pre aprobado en BCP?",
+        "questionSubCategory": "Préstamos",
+        "category": "Préstamos",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/prestamos/como-se-si-tengo-un-prestamo-pre-aprobado-en-bcp"
+    },
+    {
+        "question": "¿Cómo solicito un Préstamo Online?",
+        "questionSubCategory": "Préstamos",
+        "category": "Préstamos",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/prestamos/como-solicito-un-prestamo-online"
+    },
+    {
+        "question": "¿Qué necesito para solicitar un Préstamo Online?",
+        "questionSubCategory": "Préstamos",
+        "category": "Préstamos",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/prestamos/que-necesito-para-solicitar-un-prestamo-online"
+    },
+    {
+        "question": "¿Cómo puedo ampliar o postergar el pago de préstamo?",
+        "questionSubCategory": "Préstamos",
+        "category": "Préstamos",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/prestamos/como-ampliar-o-postergar-pago-prestamo"
+    },
+    {
+        "question": "¿Cómo puedo reprogramar la deuda de mi Préstamo?",
+        "questionSubCategory": "Préstamos",
+        "category": "Préstamos",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/prestamos/como-reprogramar-deuda-de-mi-prestamo"
+    },
+    {
+        "question": "¿Cuáles son los tipos de Cuentas de Ahorros?",
+        "questionSubCategory": "Cuentas de Ahorro",
+        "category": "Ahorros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/cuenta-de-ahorros/cuales-son-los-tipos-de-cuentas-de-ahorros"
+    },
+    {
+        "question": "¿Cómo abro una Cuenta de Ahorros?",
+        "questionSubCategory": "Cuentas de Ahorro",
+        "category": "Ahorros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/cuenta-de-ahorros/como-abro-una-cuenta-de-ahorros"
+    },
+    {
+        "question": "¿Cómo actualizar el correo y celular asociado a mi Cuenta de Ahorro BCP?",
+        "questionSubCategory": "Cuentas de Ahorro",
+        "category": "Ahorros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/cuenta-de-ahorros/como-actualizar-correo-celular-asociado-cuenta-ahorro-bcp"
+    },
+    {
+        "question": "¿Cómo elimino mi Cuenta de Ahorros BCP?",
+        "questionSubCategory": "Cuentas de Ahorro",
+        "category": "Ahorros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/cuenta-de-ahorros/como-elimino-mi-cuenta-ahorros-bcp"
+    },
+    {
+        "question": "¿Cómo saber el saldo de mi Cuenta de Ahorros BCP?",
+        "questionSubCategory": "Cuentas de Ahorro",
+        "category": "Ahorros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/cuenta-de-ahorros/como-saber-saldo-cuenta-ahorros-bcp"
+    },
+    {
+        "question": "¿Cómo saber mi número de Cuenta de Ahorros y mi CCI?",
+        "questionSubCategory": "Cuentas de Ahorro",
+        "category": "Ahorros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/cuenta-de-ahorros/como-saber-numero-cuenta-ahorros-bcp-y-codigo-interbancario-cci"
+    },
+    {
+        "question": "¿Cómo saber qué tipo de Cuenta de Ahorro BCP tengo?",
+        "questionSubCategory": "Cuentas de Ahorro",
+        "category": "Ahorros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/cuenta-de-ahorros/como-saber-que-tipo-cuenta-ahorro-bcp-tengo"
+    },
+    {
+        "question": "¿Cómo ver los estados de cuenta de mi Cuenta de Ahorros BCP?",
+        "questionSubCategory": "Cuentas de Ahorro",
+        "category": "Ahorros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/cuenta-de-ahorros/como-ver-estados-de-cuenta-ahorros-bcp"
+    },
+    {
+        "question": "¿Puedo tener dos Cuentas de Ahorro en una misma Tarjeta BCP?",
+        "questionSubCategory": "Cuentas de Ahorro",
+        "category": "Ahorros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/cuenta-de-ahorros/dos-cuentas-misma-tarjeta-bcp"
+    },
+    {
+        "question": "¿Se puede depositar dólares a una cuenta en soles en BCP?",
+        "questionSubCategory": "Cuentas de Ahorro",
+        "category": "Ahorros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/cuenta-de-ahorros/se-puede-depositar-d%C3%B3lares-a-una-cuenta-soles-bcp"
+    },
+    {
+        "question": "¿Cuáles son los beneficios de abrir una Cuenta Digital BCP?",
+        "questionSubCategory": "Cuentas de Ahorro",
+        "category": "Ahorros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/cuenta-de-ahorros/cuales-son-los-beneficios-de-abrir-una-cuenta-digital-bcp"
+    },
+    {
+        "question": "¿Cuáles son los beneficios de abrir una Cuenta Ilimitada BCP?",
+        "questionSubCategory": "Cuentas de Ahorro",
+        "category": "Ahorros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/cuenta-de-ahorros/cuales-son-beneficios-cuenta-ilimitada-bcp"
+    },
+    {
+        "question": "¿Cuáles son los beneficios de abrir una Cuenta Premio BCP?",
+        "questionSubCategory": "Cuentas de Ahorro",
+        "category": "Ahorros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/cuenta-de-ahorros/cuales-son-los-beneficios-de-abrir-una-cuenta-premio-bcp"
+    },
+    {
+        "question": "¿Cómo abrir una Cuenta de Ahorros BCP para niños?",
+        "questionSubCategory": "Cuentas de Ahorro",
+        "category": "Ahorros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/cuenta-de-ahorros/como-abrir-cuenta-ahorros-bcp-para-ninos"
+    },
+    {
+        "question": "¿Cómo convertirse en un cliente digital?",
+        "questionSubCategory": "Cuentas de Ahorro",
+        "category": "Ahorros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/cuenta-de-ahorros/como-convertirse-en-cliente-digital"
+    },
+    {
+        "question": "¿Qué cuenta del BCP no cobra mantenimiento?",
+        "questionSubCategory": "Cuentas de Ahorro",
+        "category": "Ahorros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/cuenta-de-ahorros/que-cuenta-bcp-no-cobra-mantenimiento"
+    },
+    {
+        "question": "¿Cuál es el máximo monto de mi sueldo que puedo obtener en un Adelanto de Sueldo?",
+        "questionSubCategory": "Adelanto de Sueldo",
+        "category": "Adelanto de Sueldo",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/adelanto-de-sueldo/cual-es-maximo-minimo-monto-que-puedo-obtener-adelanto-de-sueldo"
+    },
+    {
+        "question": "¿Cuáles son los beneficios de un Adelanto de Sueldo?",
+        "questionSubCategory": "Adelanto de Sueldo",
+        "category": "Adelanto de Sueldo",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/adelanto-de-sueldo/cuales-son-beneficios-adelanto-de-sueldo"
+    },
+    {
+        "question": "¿Cuáles son los requisitos para solicitar un Adelanto de Sueldo?",
+        "questionSubCategory": "Adelanto de Sueldo",
+        "category": "Adelanto de Sueldo",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/adelanto-de-sueldo/cuales-son-requisitos-para-solicitar-adelanto-de-sueldo-bcp"
+    },
+    {
+        "question": "¿Cómo solicitar un Adelanto de Sueldo?",
+        "questionSubCategory": "Adelanto de Sueldo",
+        "category": "Adelanto de Sueldo",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/adelanto-de-sueldo/como-solicitar-adelanto-de-sueldo"
+    },
+    {
+        "question": "¿Qué es Adelanto de Sueldo?",
+        "questionSubCategory": "Adelanto de Sueldo",
+        "category": "Adelanto de Sueldo",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/adelanto-de-sueldo/que-es-adelanto-de-sueldo"
+    },
+    {
+        "question": "¿Cuánto es la comisión o interés a pagar si obtengo un Adelanto de Sueldo?",
+        "questionSubCategory": "Adelanto de Sueldo",
+        "category": "Adelanto de Sueldo",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/adelanto-de-sueldo/cuanta-comision-o-interes-pagar-adelanto-de-sueldo"
+    },
+    {
+        "question": "¿Cómo pagar mi Adelanto de Sueldo?",
+        "questionSubCategory": "Adelanto de Sueldo",
+        "category": "Adelanto de Sueldo",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/adelanto-de-sueldo/como-pagar-adelanto-de-sueldo"
+    },
+    {
+        "question": "¿Qué es un prepago de Adelanto de Sueldo?",
+        "questionSubCategory": "Adelanto de Sueldo",
+        "category": "Adelanto de Sueldo",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/adelanto-de-sueldo/que-es-prepago-adelanto-de-sueldo"
+    },
+    {
+        "question": "¿Qué pasa si no pago mi Adelanto de Sueldo a tiempo?",
+        "questionSubCategory": "Adelanto de Sueldo",
+        "category": "Adelanto de Sueldo",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/adelanto-de-sueldo/que-pasa-si-no-pago-adelanto-de-sueldo-a-tiempo"
+    },
+    {
+        "question": "¿Qué cubre el Seguro Onco Respaldo Digital?",
+        "questionSubCategory": "Seguros",
+        "category": "Seguros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/seguros/que-cubre-seguro-onco-digital-bcp"
+    },
+    {
+        "question": "¿Cuáles son los beneficios del Seguro Protección de Tarjetas?",
+        "questionSubCategory": "Seguros",
+        "category": "Seguros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/seguros/beneficios-seguro-proteccion-tarjetas-bcp"
+    },
+    {
+        "question": "¿Cuáles son los beneficios del Seguro Vida Ahorro?",
+        "questionSubCategory": "Seguros",
+        "category": "Seguros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/seguros/beneficios-seguro-vida-ahorro-bcp"
+    },
+    {
+        "question": "¿Cuáles son los beneficios del Seguro Vida Devolución?",
+        "questionSubCategory": "Seguros",
+        "category": "Seguros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/seguros/beneficios-seguro-vida-devolucion-bcp"
+    },
+    {
+        "question": "¿Cuáles son los beneficios del Seguro de Viajes?",
+        "questionSubCategory": "Seguros",
+        "category": "Seguros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/seguros/beneficios-seguro-viajes-bcp"
+    },
+    {
+        "question": "¿Cómo asegurar mi viaje ante cualquier imprevisto?",
+        "questionSubCategory": "Seguros",
+        "category": "Seguros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/seguros/como-asegurar-viaje-ante-imprevisto"
+    },
+    {
+        "question": "¿Cómo proteger mi Tarjeta de Crédito o Débito ante robos?",
+        "questionSubCategory": "Seguros",
+        "category": "Seguros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/seguros/como-proteger-tarjeta-ante-robos"
+    },
+    {
+        "question": "¿Qué cubre el Seguro Respaldo Vida?",
+        "questionSubCategory": "Seguros",
+        "category": "Seguros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/seguros/que-cubre-seguro-respaldo-vida-bcp"
+    },
+    {
+        "question": "¿Qué necesito para solicitar un Seguro BCP?",
+        "questionSubCategory": "Seguros",
+        "category": "Seguros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/seguros/que-necesito-solicitar-seguro-bcp"
+    },
+    {
+        "question": "¿Qué seguros ofrece el BCP?",
+        "questionSubCategory": "Seguros",
+        "category": "Seguros",
+        "urlAnswer": "https://www.viabcp.com/ayuda-bcp/seguros/que-seguros-ofrece-bcp"
+    }
+]

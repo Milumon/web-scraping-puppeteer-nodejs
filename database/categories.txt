@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Banca Móvil",
+        "url": "/ayuda-bcp/banca-movil"
+    },
+    {
+        "title": "Operaciones digitales",
+        "url": "/ayuda-bcp/operaciones-digitales"
+    },
+    {
+        "title": "Tarjetas de Crédito",
+        "url": "/ayuda-bcp/tarjetas"
+    },
+    {
+        "title": "Préstamos",
+        "url": "/ayuda-bcp/prestamos"
+    },
+    {
+        "title": "Ahorros",
+        "url": "/ayuda-bcp/cuenta-de-ahorros"
+    },
+    {
+        "title": "Adelanto de Sueldo",
+        "url": "/ayuda-bcp/adelanto-de-sueldo"
+    },
+    {
+        "title": "Seguros",
+        "url": "/ayuda-bcp/seguros"
+    }
+]
